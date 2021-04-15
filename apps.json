@@ -1,0 +1,27 @@
+{
+	"metaData": [{
+		"Id": 1,
+		"Name": "@LogRocket/logrocket-single-spa-homepage",
+		"Hash": "/",
+		"AppUrl": "@LogRocket/logrocket-single-spa-homepage"
+    },
+    {
+		"Id": 2,
+		"Name": "@LogRocket/logrocket-single-spa-navbar",
+		"Hash": "/",
+		"AppUrl": "@LogRocket/logrocket-single-spa-navbar"
+    },
+    {
+		"Id": 3,
+		"Name": "@LogRocket/logrocket-single-spa-aboutpage",
+		"Hash": "/about",
+		"AppUrl": "@LogRocket/logrocket-single-spa-aboutpage"
+    },
+    {
+		"Id": 4,
+		"Name": "@LogRocket/logrocket-single-spa-contactpage",
+		"Hash": "/contact",
+		"AppUrl": "@LogRocket/logrocket-single-spa-contactpage"
+	}
+]
+}
