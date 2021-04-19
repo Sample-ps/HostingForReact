@@ -16,6 +16,12 @@
 		"Name": "@LogRocket/logrocket-single-spa-aboutpage",
 		"Hash": "/about",
 		"AppUrl": "@LogRocket/logrocket-single-spa-aboutpage"
-    }
+    },
+    {
+		"Id": 4,
+		"Name": "@LogRocket/logrocket-single-spa-contactpage",
+		"Hash": "/contact",
+		"AppUrl": "@LogRocket/logrocket-single-spa-contactpage"
+}
 ]
 }
